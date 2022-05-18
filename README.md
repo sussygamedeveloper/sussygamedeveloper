@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sussygamedeveloper" alt="sussygamedeveloper" /></a> </p>
 
-- 🔭 I’m currently working on [Minecraft Java Edition ++](https://github.com/sussygamedeveloper/JavaEditionPlusPlus)
+- 🔭 I’m currently working on: [Minecraft Java Edition ++](https://github.com/sussygamedeveloper/JavaEditionPlusPlus)
 
-- 🌱 I’m currently learning **Java, C++, Unity.**
+- 🌱 I’m currently learning: **Java, C++, Unity.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sussygamedeveloper](https://github.com/sussygamedeveloper)
+- 👨‍💻 All of my projects are available at: [https://github.com/sussygamedeveloper](https://github.com/sussygamedeveloper)
 
-- 💬 Ask me about **HTML5, Javascript, Python, Linux.**
+- 💬 Ask me about: **HTML5, Javascript, Python, Linux.**
 
-- 📫 How to reach me **what?#8181 On Discord**
+- 📫 How to reach me: **what?#8181 On Discord**
 
-- ⚡ Fun fact **I Think I Am Funny (not)**
+- ⚡ Fun fact: **I Think I Am Funny (not)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
