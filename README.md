@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm What?</h1>
+<h1 align="center">Hi, I'm What?</h1>
 <h3 align="center">A Sussy Game Developer From New York</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sussygamedeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="sussygamedeveloper" /> </p>
