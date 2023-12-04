@@ -13,7 +13,7 @@
 
 - 💬 Ask me about: **HTML5, Javascript, Python, Linux.**
 
-- 📫 How to reach me: **what?#8181 On Discord**
+- 📫 How to reach me: **awesomeluckguy On Discord**
 
 - ⚡ Fun fact: **I Think I Am Funny (not)**
 
