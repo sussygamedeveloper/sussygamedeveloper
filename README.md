@@ -25,9 +25,9 @@
 <a href="https://www.youtube.com/@awesomeluckguy">
   <img src="https://www.svgrepo.com/show/448261/youtube.svg" alt="YouTube Logo" width="45px">
 </a>
-<a href="https://discord.gg/hbX8eVEd69">
+<!-- <a href="https://discord.gg/hbX8eVEd69">
   <img src="https://skillicons.dev/icons?i=discord" alt="Discord Logo" width="45px">
-</a>
+</a>-->
 
 ### Languages and Tools:
 
