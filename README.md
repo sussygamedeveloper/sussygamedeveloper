@@ -3,8 +3,11 @@
 
 ![](https://komarev.com/ghpvc/?username=sussygamedeveloper&style=flat)
 
-![](https://github-profile-trophy.vercel.app/?username=sussygamedeveloper&no-bg=true&no-frame=true&theme=onestar#gh-dark-mode-only)
-![](https://github-profile-trophy.vercel.app/?username=sussygamedeveloper&no-bg=true&no-frame=true&theme=oldie#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=sussygamedeveloper&no-bg=true&no-frame=true&theme=onestar">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=sussygamedeveloper&no-bg=true&no-frame=true&theme=oldie">
+  <img alt="" src="">
+</picture>
 
 - 🔭 I’m currently working on: [Minecraft Java Edition ++](https://github.com/sussygamedeveloper/JavaEditionPlusPlus)
 
@@ -26,11 +29,13 @@
   <img src="https://skillicons.dev/icons?i=discord" alt="Discord Logo" width="45px">
 </a>
 
-
-
 ### Languages and Tools:
-![](https://skillicons.dev/icons?i=androidstudio,bash,blender,cpp,css,html,java,js,linux,nginx,nodejs,py,unity,unreal&theme=light#gh-light-mode-only)
-![](https://skillicons.dev/icons?i=androidstudio,bash,blender,cpp,css,html,java,js,linux,nginx,nodejs,py,unity,unreal#gh-dark-mode-only)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=androidstudio%2Cbash%2Cblender%2Ccpp%2Ccss%2Chtml%2Cjava%2Cjs%2Clinux%2Cnginx%2Cnodejs%2Cpy%2Cunity%2Cunreal">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=androidstudio%2Cbash%2Cblender%2Ccpp%2Ccss%2Chtml%2Cjava%2Cjs%2Clinux%2Cnginx%2Cnodejs%2Cpy%2Cunity%2Cunreal&theme=light">
+  <img alt="" src="">
+</picture>
 
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=sussygamedeveloper&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)
