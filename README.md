@@ -32,8 +32,8 @@
 ### Languages and Tools:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=androidstudio%2Cbash%2Cblender%2Ccpp%2Ccss%2Chtml%2Cjava%2Cjs%2Clinux%2Cnginx%2Cnodejs%2Cpy%2Cunity%2Cunreal">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=androidstudio%2Cbash%2Cblender%2Ccpp%2Ccss%2Chtml%2Cjava%2Cjs%2Clinux%2Cnginx%2Cnodejs%2Cpy%2Cunity%2Cunreal&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=androidstudio%2Cbash%2Cblender%2Ccpp%2Ccss%2Chtml%2Cjava%2Cjs%2Clinux%2Cnginx%2Cnodejs%2Cpy%2Creact%2Cunity%2Cunreal">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=androidstudio%2Cbash%2Cblender%2Ccpp%2Ccss%2Chtml%2Cjava%2Cjs%2Clinux%2Cnginx%2Cnodejs%2Cpy%2Creact%2Cunity%2Cunreal&theme=light">
   <img alt="" src="">
 </picture>
 
